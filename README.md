@@ -43,7 +43,7 @@ Simplifying Assumptions
 
 
 ***
-Extra - How to deploy your application to Expo so we can test it easily
+## Extra - How to deploy your application to Expo so we can test it easily
 
 1. Create an account on expo.io;
 2. Click on the dropdown menu on the top left corner (the one right next to the Expo logo) then click on the Settings icon;
