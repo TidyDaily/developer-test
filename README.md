@@ -48,7 +48,7 @@ Simplifying Assumptions
 1. Create an account on expo.io;
 2. Click on the dropdown menu on the top left corner (the one right next to the Expo logo) then click on the Settings icon;
 3. Go to Members > Invite Member and then invite the following emails: assaf@turnoverbnb.com, rafael.0404@hotmail.com and paulo@taskuro.com (viewer permissions are enough);
-4. Go to your expo app repository and on the app.json file, add the field ```"owner": "[your expo username]"```
+4. Go to your expo app repository and on the app.json file, add the field ```"owner": "[your expo username on expo.io]"```
 5. Run expo publish.
 
 If you follow the steps correctly, the publish command generates a URL that we can use to test the application on our devices using Expo Go. Send that link with your repositories when you finish the test.
